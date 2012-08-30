@@ -22,6 +22,12 @@ Simple use supplying model and attribute as parameters:
 
     country_select("user", "country_name")
 
+Simple nationalities dropdown
+
+    nationality_select("user", "nationality")
+
+Nationalities come from this page http://en.wikipedia.org/wiki/List_of_adjectival_forms_of_place_names, it is not an exhaustive or correct list and never can be.
+
 Supplying priority countries to be placed at the top of the list:
 
     country_select("user", "country_name", [ "United Kingdom", "France", "Germany" ])
