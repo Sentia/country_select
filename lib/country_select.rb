@@ -74,7 +74,7 @@ module ActionView
         "Antiguan","Argentinian","Armenian","Aruban","Australian","Austrian","Azerbaijani","Bahamian",
         "Bahraini","Bangladeshi","Barbadian","Belarusian","Belgian","Belizean","Beninese","Bermudan",
         "Bhutanese","Bolivian","Bosnian","Botswanan","Brazilian","British Virgin Islander","Bruneian",
-        "Bulgarian","Burkinabè","Burmese","Burundian","Cambodian","Cameroonian","Canadian","Cape Verdeanian",
+        "Bulgarian","Burkinabe","Burmese","Burundian","Cambodian","Cameroonian","Canadian","Cape Verdeanian",
         "Caymanian","Central African","Chadian","Chilean","Chinese","Christmas Islander","Cocos Islander","Colombian",
         "Comorian","Congolese","Cook Islander","Costa Rican","Ivorian","Croatian","Cuban","Cypriot","Czech","Danish",
         "Djiboutian","Dominicand","Dominicane","Timorese","Ecuadorian","Egyptian","Salvadoran","English","Equatorial Guinean",
