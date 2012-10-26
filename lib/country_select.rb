@@ -95,7 +95,7 @@ module ActionView
         "Samoan","Sammarinese","São Toméan","Saudi","Scottish","Senegalese","Serbian","Seychellois","Sierra Leonean","Singaporean",
         "Slovak","Slovenian","Solomon Islander","Somalian","South African","South Ossetian","South Sudanese","Spanish","Sri Lankan",
         "Sudanese","Surinamese","Swazi","Swedish","Swiss","Syrian","Taiwanese","Tajikistani","Tanzanian","Thai","Togolese","Tongan",
-        "Trinidadian","Tunisian","Turkish","Turkmen","Tuvaluan","Ugandan","Ukrainian","Emirati","British","American","Uruguayan",
+        "Trinidadian","Tunisian","Turkish","Turkmen","Tuvaluan","Ugandan","Ukrainian","Emirati","American","Uruguayan",
         "Uzbekistani","Vanuatuan","Venezuelan","Vietnamese","Virgin Islander","Welsh","Futunan","Sahraw","Yemeni",
         "Zambian","Zimbabwean"].sort unless const_defined?("NATIONALITIES")
     end
